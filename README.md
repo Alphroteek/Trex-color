@@ -1,2 +1,1 @@
-# Trex-color
-Project
+# TREX-Color-final
